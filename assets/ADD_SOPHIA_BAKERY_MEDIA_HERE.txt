@@ -1,0 +1,1 @@
+Extract all original files from Sophia Bakery_c.zip into this folder. Images, audio, and video will not display until they are added.
